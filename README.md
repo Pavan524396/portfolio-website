@@ -1,0 +1,3 @@
+# Majji Pavan's Portfolio Website
+
+A personal portfolio website showcasing my skills, projects, and experiences as a B.Tech Computer Science student. Built with HTML, CSS, and JavaScript, it features a modern glassmorphism design, smooth animations, and a responsive layout. Key sections include About, Education, Skills, Certifications, Volunteer Experience, and Projects like a Home Automation System and AquAlarm. Deployed via GitHub Pages for easy access. View the live demo at: [https://Pavan524396.github.io/portfolio-website/](https://Pavan524396.github.io/portfolio-website/). Connect with me on [LinkedIn](https://linkedin.com/in/majji-pavan-3715882a6) or [GitHub](https://github.com/Pavan524396).
